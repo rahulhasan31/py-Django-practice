@@ -23,7 +23,8 @@
 
 2-Use the following command to create a new Django project. Replace projectname with the desired name for your project:
 ```bash
-  django-admin startproject myproject
+django-admin startproject myproject
+
 ```
 
 
